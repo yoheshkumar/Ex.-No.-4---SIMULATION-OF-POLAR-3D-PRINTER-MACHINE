@@ -26,15 +26,52 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
+![239346751-e82bb558-0b6e-43df-a32f-f02909549e2b](https://github.com/srikarthickeyanganapathy/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119393842/0dd5f3e9-73fc-4430-8e51-e3aeaf9470da)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+#### Y-AXIS BASE :
+The base of the printer that supports the rest of the components.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
+#### Z-AXIS FRAME :
+This is the frame that holds the print head and moves it up and down along the vertical axis.
+
+#### SMOOTH RODS :
+The smooth rods that provide smooth and accurate movement of the Z-axis frame.
+
+#### MOTORS :
+provide the power to move the Z-axis frame and the print head.
+
+#### EXTRUDER SUPPORTER :
+The support structure that holds the extruder assembly.
+
+#### THREADED ROD :
+Threaded rod that provides the power to move the Z-axis frame up and down.
+
+Y-AXIS FRAME :
+The frame that moves the print head in the horizontal plane.
+
+#### MOTOR WITH GEAR :
+provides the power to move the Y-axis frame.
+
+#### MOTOR-WITH-PULLEY :
+provides the power to move the Z-axis frame.
+
+#### GEARS :
+Transfer power from the stepper motors to the threaded rod and the smooth rods.
+
+#### PLATE :
+plate where the printed object is created.
+
+#### EXTRUDER :
+melts and extrudes the filament to create the printed object.
+
+#### FILAMENT :
+material that is used to create the printed object.
 
 ## Output:
+![239348814-c59772d6-27d7-40ae-9e05-f13476b468de](https://github.com/srikarthickeyanganapathy/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119393842/be4adb33-6df6-4cc0-88ec-bcf265605b07)
 
-### Name:
-### Register Number:
+### Name: SRI KARTHICKEYAN GANAPATHY
+### Register Number: 212222240102
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
