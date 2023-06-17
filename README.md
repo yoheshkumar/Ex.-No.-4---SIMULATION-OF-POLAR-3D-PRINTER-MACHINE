@@ -70,8 +70,8 @@ material that is used to create the printed object.
 ## Output:
 ![239348814-c59772d6-27d7-40ae-9e05-f13476b468de](https://github.com/srikarthickeyanganapathy/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119393842/be4adb33-6df6-4cc0-88ec-bcf265605b07)
 
-### Name: SRI KARTHICKEYAN GANAPATHY
-### Register Number: 212222240102
+### Name: YOHESHKUMAR R.M
+### Register Number: 212222240118
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
